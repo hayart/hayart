@@ -12,11 +12,11 @@ Senior Java Backend Developer with extensive experience building scalable, high-
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 * Java
 
-**Frameworks**
+### Frameworks
 
 * Spring Boot
 * Spring Framework
@@ -24,19 +24,19 @@ Senior Java Backend Developer with extensive experience building scalable, high-
 * Spring Data JPA
 * Hibernate
 
-**Architecture**
+### Architecture
 
 * REST APIs
 * Microservices
 * Event-driven Architecture
 
-**Databases**
+### Databases
 
 * PostgreSQL
 * MySQL
 * MongoDB
 
-**Tools & Platforms**
+### Tools & Platforms
 
 * Docker
 * Kubernetes
@@ -45,16 +45,16 @@ Senior Java Backend Developer with extensive experience building scalable, high-
 * Gradle
 * GitHub Actions
 
-**Testing**
+### Testing
 
-* JUnit
+* JUnit 5
 * Mockito
 * Testcontainers
 
-## 📫 Contact
+## 📫 Connect with Me
 
-* Email: **[developer.armenia@gmail.com](mailto:developer.armenia@gmail.com)**
+* 📧 Email: **[developer.armenia@gmail.com](mailto:developer.armenia@gmail.com)**
+* 💼 LinkedIn: https://www.linkedin.com/in/hayk-harutyunyan-2246027/
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss opportunities.
