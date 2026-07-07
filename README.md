@@ -53,7 +53,7 @@ Senior Java Backend Developer with extensive experience building scalable, high-
 
 ## 📫 Connect with Me
 
-* 📧 Email: **[developer.armenia@gmail.com](mailto:developer.armenia@gmail.com)**
+* 📧 Email: **[harutyunyanhayk025@gmail.com](mailto:harutyunyanhayk025@gmail.com)**
 * 💼 LinkedIn: https://www.linkedin.com/in/hayk-harutyunyan-2246027/
 
 ---
