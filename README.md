@@ -49,8 +49,7 @@ I'm a software engineer with **20+ years of professional experience** designing,
 * Git
 * Maven
 * Gradle
-* GitHub Actions
-* Jenkins
+* Gitlab
 
 ### Testing
 
